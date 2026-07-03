@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "order_id": "ORD-00001",
+        "product_id": "laptop",
+        "product_name": "HP15-EF2126WM RYZEN 5 5500U",
+        "customer_name": "Dilushan Ravihara",
+        "email": "dilu@example.com",
+        "phone": "+94773610194",
+        "address": "D19\/1B Hatton Road, Kithulgala",
+        "amount": "LKR220,000.00",
+        "status": "Pending",
+        "created_at": "2026-06-16 22:10:41"
+    }
+]

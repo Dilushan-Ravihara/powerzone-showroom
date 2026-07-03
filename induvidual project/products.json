@@ -1,0 +1,729 @@
+{
+    "40lmicrowave": {
+        "id": "40lmicrowave",
+        "filename": "40L Microwave.html",
+        "name": "40L Microwave",
+        "price": "Leave a Review",
+        "description": "The 40L Microwave Oven offers a perfect blend of convenience, capacity, and advanced cooking features. Ideal for large families or those who love to host, this microwave handles everything from reheating to grilling with ease. Its stylish design, user-friendly controls, and multiple cooking options make it a versatile addition to your kitchen.",
+        "image": "image\/household appliance\/micro.jpg",
+        "category": "household",
+        "features": [
+            "Large Capacity: 40-liter capacity ideal for large families and bulk cooking.",
+            "Multi-Functionality: Microwave, grill, convection, and combination cooking modes.",
+            "Digital Controls: Easy-to-use touch controls with an LED display.",
+            "Preset Cooking Programs: Automatic settings for popcorn, pizza, defrosting, and more.",
+            "Child Lock: Ensures safety by preventing accidental operation.",
+            "Energy-Efficient: Optimized power usage for reduced electricity bills.",
+            "Stainless Steel Interior: Durable and easy to clean.",
+            "Timer and Alerts: Precise cooking with audible alerts for convenience."
+        ],
+        "reviews": [
+            {
+                "name": "Emily R.",
+                "comment": "\"This microwave is fantastic! The large capacity and multiple features make cooking so easy.\""
+            },
+            {
+                "name": "David S.",
+                "comment": "\"Great value for money. The grill option is excellent for crispy snacks.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "doubledoorrefrigerator": {
+        "id": "doubledoorrefrigerator",
+        "filename": "Double Door Refrigerator.html",
+        "name": "Double Door Refrigerator",
+        "price": "LKR536,990.00",
+        "description": "The Double Door Refrigerator combines style, efficiency, and convenience, making it a perfect fit for modern households. With ample storage space, advanced cooling technology, and energy-saving features, this refrigerator ensures your food stays fresh for longer while reducing electricity consumption. Its sleek design and double-door setup offer both functionality and a contemporary look for your kitchen.",
+        "image": "image\/household appliance\/fridge.jpg",
+        "category": "household",
+        "features": [
+            "Large Capacity: Spacious compartments for all your fresh and frozen goods.",
+            "Frost-Free Technology: Prevents ice build-up for hassle-free maintenance.",
+            "Energy Efficient: Saves electricity while delivering superior cooling performance.",
+            "Multi-Airflow System: Even cooling throughout the refrigerator ensures food stays fresh.",
+            "Adjustable Shelves: Flexible storage options to fit different-sized items.",
+            "Separate Freezer Compartment: Dedicated space for frozen goods and ice-making.",
+            "LED Lighting: Bright and energy-efficient interior illumination.",
+            "Elegant Design: Stylish exterior with durable materials for long-lasting use."
+        ],
+        "reviews": [
+            {
+                "name": "Linda A.",
+                "comment": "\"This refrigerator has been amazing for my family! Lots of space and no more defrosting issues.\""
+            },
+            {
+                "name": "Emma W.",
+                "comment": "\"The LED lighting and adjustable shelves make it very convenient to use. Highly recommend!\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "spinmops": {
+        "id": "spinmops",
+        "filename": "Spin mops.html",
+        "name": "Spin mops",
+        "price": "LKR3,850.00",
+        "description": "The Spin Mop is the ultimate cleaning companion for your home. Designed to make floor cleaning effortless, it comes with a 360-degree rotating head for easy access to corners and hard-to-reach areas. The built-in wringer mechanism ensures hands-free operation, keeping your hands clean and dry. Durable, efficient, and easy to use, this spin mop makes cleaning less of a chore.",
+        "image": "image\/household appliance\/mop.jpg",
+        "category": "household",
+        "features": [
+            "360-Degree Rotating Head: Reaches under furniture and into tight spaces with ease.",
+            "Built-In Wringer: Hands-free operation for effortless mopping.",
+            "Microfiber Mop Head: Absorbs water and traps dirt for efficient cleaning.",
+            "Durable Bucket: Strong and long-lasting construction for everyday use.",
+            "Adjustable Handle: Extends to accommodate different heights for comfortable use.",
+            "Lightweight and Portable: Easy to carry and store.",
+            "Multi-Surface Cleaning: Suitable for tile, wood, marble, and laminate floors.",
+            "Easy to Assemble: Simple setup for quick and hassle-free cleaning."
+        ],
+        "reviews": [
+            {
+                "name": "Sarah P.",
+                "comment": "\"This spin mop has been a game changer! The wringer works perfectly, and the microfiber mop cleans like magic.\""
+            },
+            {
+                "name": "John T.",
+                "comment": "\"Very convenient and easy to use. The adjustable handle is a thoughtful feature.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "tablefan": {
+        "id": "tablefan",
+        "filename": "Table Fan.html",
+        "name": "Table Fan",
+        "price": "LKR10,500.00",
+        "description": "The Table Fan is a versatile, compact cooling solution perfect for homes, offices, or dorm rooms. It delivers powerful airflow with minimal noise, ensuring comfort during warm days. With adjustable speeds, a tilting head, and a sleek design, this fan combines practicality and style.",
+        "image": "image\/household appliance\/fan.jpg",
+        "category": "household",
+        "features": [
+            "Compact and Portable: Lightweight design for easy placement and movement.",
+            "Three Speed Settings: Choose between low, medium, and high speeds for customizable airflow.",
+            "Oscillation Function: Provides widespread cooling coverage.",
+            "Adjustable Tilt: Direct the airflow where you need it most.",
+            "Energy Efficient: Consumes less power while delivering optimal performance.",
+            "Quiet Operation: Minimal noise for uninterrupted focus or sleep.",
+            "Stylish Design: Blends seamlessly with modern interiors.",
+            "Durable Build: High-quality materials ensure long-lasting use."
+        ],
+        "reviews": [
+            {
+                "name": "Maria J.",
+                "comment": "\"The fan is super quiet and effective. Perfect for my workspace!\""
+            },
+            {
+                "name": "Kevin L.",
+                "comment": "\"Good value for money. The oscillation feature is a big plus.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "toaster": {
+        "id": "toaster",
+        "filename": "Toaster.html",
+        "name": "Toaster",
+        "price": "LKR20,000.00",
+        "description": "The Toaster is a sleek and efficient appliance designed to make your mornings easier and tastier. With multiple browning settings, wide slots for various bread sizes, and safety features like auto shut-off, this toaster is perfect for anyone who enjoys crispy, evenly toasted bread. Its compact design fits seamlessly into any kitchen space.",
+        "image": "image\/household appliance\/toaster.jpg",
+        "category": "household",
+        "features": [
+            "Multiple Browning Settings: Choose from light to dark toast to suit your taste.",
+            "Wide Slots: Accommodates thick bread, bagels, and more.",
+            "Auto Shut-Off: Ensures safety by turning off when toasting is complete.",
+            "Defrost and Reheat Functions: Convenient options for frozen or cooled bread.",
+            "Crumb Tray: Removable tray for easy cleaning and maintenance.",
+            "Compact Design: Space-saving size for any kitchen counter.",
+            "Durable Build: High-quality materials for long-lasting use.",
+            "LED Indicator: Easy-to-read light for operation status."
+        ],
+        "reviews": [
+            {
+                "name": "Anna M.",
+                "comment": "\"This toaster works like a charm! The browning settings are perfect, and it toasts evenly every time.\""
+            },
+            {
+                "name": "Michael B.",
+                "comment": "\"I love the wide slots for bagels. Cleaning is super easy with the crumb tray.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "actioncamera": {
+        "id": "actioncamera",
+        "filename": "action camera.html",
+        "name": "Action camera",
+        "price": "LKR114,990.00",
+        "description": "Capture your adventures in stunning clarity with the 4K Ultra HD Action Camera. Designed for thrill-seekers and content creators, this compact yet powerful camera delivers ultra-high-definition video recording and exceptional photo quality. With waterproof capabilities, multiple shooting modes, and Wi-Fi connectivity, this action camera is your perfect companion for outdoor adventures, underwater exploration, and extreme sports.",
+        "image": "image\/consumer electronic\/gopro.jpg",
+        "category": "consumer",
+        "features": [
+            "4K Ultra HD Video Recording: Shoot videos in 4K at 30fps for unparalleled clarity.",
+            "16MP Photo Capture: Take sharp and vibrant photos even in dynamic environments.",
+            "Waterproof Up to 30m: Dive into the action with the included waterproof case.",
+            "Wi-Fi Connectivity: Instantly transfer and share your adventures via a dedicated app.",
+            "Wide-Angle Lens: 170\u00b0 lens captures a broader perspective.",
+            "Battery Life: Up to 90 minutes of continuous recording."
+        ],
+        "reviews": [],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "blender": {
+        "id": "blender",
+        "filename": "blender.html",
+        "name": "BLENDER",
+        "price": "LKR6,999.00",
+        "description": "The Blender is a versatile and high-performance kitchen appliance designed to simplify meal preparation. Whether you're blending smoothies, pureeing soups, crushing ice, or making sauces, this blender is engineered for efficiency and durability. Its powerful motor and multiple speed settings ensure smooth, consistent results every time.",
+        "image": "image\/household appliance\/blender.jpg",
+        "category": "household",
+        "features": [
+            "Powerful Motor: Easily handles tough ingredients and ice crushing.",
+            "Multiple Speed Settings: Offers customizable blending with variable speeds and a pulse option.",
+            "Durable Stainless Steel Blades: Provides precise and efficient blending for years.",
+            "Large Capacity Jar: BPA-free jar designed for large servings, perfect for families.",
+            "Easy to Clean: Removable, dishwasher-safe parts make cleanup a breeze.",
+            "Compact Design: Space-saving and sleek, fits seamlessly on countertops.",
+            "Safety Features: Overheat protection and secure locking for safe use.",
+            "Versatile Applications: Suitable for smoothies, soups, sauces, and ice crushing."
+        ],
+        "reviews": [
+            {
+                "name": "Emily R.",
+                "comment": "\"This blender is amazing! It handles everything from smoothies to soups effortlessly.\""
+            },
+            {
+                "name": "Sarah K.",
+                "comment": "\"Best blender I\u2019ve owned. It\u2019s durable, efficient, and looks great on my counter.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "cctv": {
+        "id": "cctv",
+        "filename": "cctv.html",
+        "name": "8Mp CCTV 5 Camera System",
+        "price": "LKR95,500.00",
+        "description": "The 8MP CCTV 5 Camera System is a comprehensive security solution designed to provide crystal-clear video monitoring and surveillance for homes, offices, or industrial facilities. With advanced 8MP cameras, this system delivers ultra-high-definition footage, ensuring every detail is captured. Whether you're monitoring indoors or outdoors, the cameras are equipped with weatherproof housing and night vision capabilities for round-the-clock security. The system is easy to set up and offers remote monitoring through a mobile app, giving you peace of mind no matter where you are.",
+        "image": "image\/consumer electronic\/cctv.jpg",
+        "category": "consumer",
+        "features": [
+            "8MP Ultra HD Cameras: Capture sharp and detailed footage in 4K resolution.",
+            "5-Camera Setup: Covers wide areas with multiple angles for complete surveillance.",
+            "Night Vision: Infrared technology ensures clear visibility even in complete darkness.",
+            "Weatherproof Design: IP67-rated cameras are resistant to dust, rain, and harsh outdoor conditions.",
+            "Mobile App Support: Remote monitoring and playback via a smartphone or tablet.",
+            "Motion Detection Alerts: Receive instant notifications for unusual activity.",
+            "HDD Storage Support: Store hours of footage with up to 6TB hard disk capacity.",
+            "Easy Installation: Plug-and-play setup simplifies the installation process.",
+            "Multi-Device Compatibility: View footage on your PC, smartphone, or tablet seamlessly."
+        ],
+        "reviews": [
+            {
+                "name": "Lisa M.",
+                "comment": "\"Excellent clarity! The 8MP resolution is truly impressive, and the night vision is crystal clear. Installation was a breeze.\""
+            },
+            {
+                "name": "James T.",
+                "comment": "\"Great security system for the price. The app works well, but I wish the motion detection alerts were a bit faster.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "dsl": {
+        "id": "dsl",
+        "filename": "dsl.html",
+        "name": "Nikon D810 DSLR Camera(Body Only)",
+        "price": "LKR319,500.00",
+        "description": "The Nikon D810 is a high-performance DSLR camera that combines exceptional image quality with advanced features for both professional photographers and enthusiasts. With a 36.3-megapixel full-frame sensor, it offers incredible detail, sharpness, and color reproduction, making it perfect for studio photography, landscape shots, or capturing fine details in your subject. The robust build and ergonomic design ensure comfort for long shooting sessions, while the advanced autofocus system and fast continuous shooting rate make it an ideal tool for action and wildlife photography.\r\nKey Features:",
+        "image": "image\/consumer electronic\/nikonD810.jpg",
+        "category": "consumer",
+        "features": [
+            "36.3 MP Full-Frame Sensor: Capture stunning, high-resolution images with exceptional detail.",
+            "Expeed 4 Image Processor: Fast processing power for quick image rendering and excellent noise reduction.",
+            "51-Point Autofocus System: Provides fast and accurate focusing, even in low light conditions.",
+            "5 FPS Continuous Shooting: Shoot fast action with up to 5 frames per second.",
+            "Full HD Video Recording: Record in Full HD (1080p) with professional quality, including manual exposure control.",
+            "Dual SD Card Slots: Manage storage efficiently with dual card slots for extended shoots.",
+            "ISO Range 64-12800: Excellent performance in low-light conditions with a wide ISO range for flexibility.",
+            "Rugged Magnesium Alloy Body: Built to withstand tough environments, with a weather-sealed design.",
+            "LCD Monitor: 3.2-inch, 1.2 million-dot LCD display for high-quality image preview and playback."
+        ],
+        "reviews": [
+            {
+                "name": "John B.",
+                "comment": "\"The Nikon D810 is an absolute game-changer. The image quality is stunning, and the full-frame sensor captures every detail with precision. It's perfect for landscape and portrait photography.\""
+            },
+            {
+                "name": "Amy L.",
+                "comment": "\"Incredible camera with excellent dynamic range and color depth. It\u2019s a bit heavy for long shoots, but the performance makes up for it.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "electrickettle": {
+        "id": "electrickettle",
+        "filename": "electric kettle.html",
+        "name": "ELECTRIC KETTLE",
+        "price": "LKR7,999.00",
+        "description": "The Electric Kettle is a fast and efficient appliance for boiling water, perfect for making tea, coffee, instant noodles, or any hot beverage. Its sleek design, coupled with modern safety features, ensures both style and functionality. This kettle is ideal for home, office, or dormitory use, combining convenience with energy efficiency.",
+        "image": "image\/household appliance\/electrical jug.jpg",
+        "category": "household",
+        "features": [
+            "Rapid Boil Technology: Boils water quickly, saving time and energy.",
+            "Large Capacity: Holds up to 1.7 liters, perfect for families or gatherings.",
+            "Automatic Shut-Off: Prevents overheating by switching off when water is boiled.",
+            "Boil-Dry Protection: Safety feature stops heating when no water is detected.",
+            "Durable Stainless Steel Design: Long-lasting and easy to clean.",
+            "360\u00b0 Rotational Base: Convenient for both left- and right-handed users.",
+            "LED Indicator Light: Shows when the kettle is in operation.",
+            "Cordless Operation: Detachable base for hassle-free pouring."
+        ],
+        "reviews": [
+            {
+                "name": "Lucy H.",
+                "comment": "\"This electric kettle is a lifesaver! It boils water quickly, and the automatic shut-off is super convenient.\""
+            },
+            {
+                "name": "Emma W.",
+                "comment": "\"Love the large capacity and cordless design. Perfect for my morning coffee routine.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "gascooker": {
+        "id": "gascooker",
+        "filename": "gas cooker.html",
+        "name": "Gass Cocker",
+        "price": "LKR19,500.00",
+        "description": "The Gas Cooker is an essential kitchen appliance designed to provide powerful and consistent heat for cooking. Equipped with multiple burners, it allows you to prepare a variety of dishes simultaneously. With durable construction, energy-efficient performance, and precise temperature control, this gas cooker is perfect for any home chef looking to create delicious meals with ease.",
+        "image": "image\/household appliance\/gas.jpg",
+        "category": "household",
+        "features": [
+            "Multiple Burners: Comes with 3 or 4 burners for versatile cooking.",
+            "High-Efficiency Burners: Provides powerful heat for faster cooking.",
+            "Durable Construction: Made with high-quality stainless steel for long-lasting use.",
+            "Precise Flame Control: Adjustable knobs for fine control over the cooking flame.",
+            "Easy to Clean: Removable drip trays and smooth surface for easy maintenance.",
+            "Flame Failure Safety Device: Automatically cuts off the gas supply if the flame goes out.",
+            "Compact Design: Fits easily into most kitchen spaces without compromising on performance.",
+            "Compatible with LPG or Natural Gas: Choose the gas source that works best for your needs."
+        ],
+        "reviews": [
+            {
+                "name": "Rachel S.",
+                "comment": "\"Great gas cooker! The burners heat up quickly, and the stove looks stylish in my kitchen.\""
+            },
+            {
+                "name": "John D.",
+                "comment": "\"Very reliable and easy to use. The flame control is precise, which helps in cooking at different temperatures.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "hometheter": {
+        "id": "hometheter",
+        "filename": "hometheter.html",
+        "name": "Sony 5.1 Home Theater System",
+        "price": "LKR96,990.00",
+        "description": "Elevate your entertainment experience with the Sony 5.1 Home Theater System, delivering immersive surround sound for movies, music, and gaming. Designed to fill your room with rich, dynamic audio, this system combines power and elegance. With crystal-clear sound clarity, deep bass, and seamless connectivity options, this home theater system is perfect for audiophiles and movie enthusiasts alike.",
+        "image": "image\/consumer electronic\/home theater.webp",
+        "category": "consumer",
+        "features": [
+            "5.1 Surround Sound: Experience cinematic-quality audio with five speakers and a subwoofer.",
+            "High-Resolution Audio: Enjoy music as the artist intended, with rich detail and clarity.",
+            "Bluetooth Connectivity: Stream wirelessly from your smartphone, tablet, or laptop.",
+            "Compact & Stylish Design: Complements your home d\u00e9cor effortlessly.",
+            "Multiple Inputs: HDMI, USB, and optical audio support for all your devices."
+        ],
+        "reviews": [
+            {
+                "name": "John D.",
+                "comment": "Absolutely stunning sound quality. It feels like a theater in my living room!"
+            },
+            {
+                "name": "Sarah K.",
+                "comment": "The bass is phenomenal, and the setup is easy. Highly recommend it."
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "iron": {
+        "id": "iron",
+        "filename": "iron.html",
+        "name": "IRON(1000W)",
+        "price": "LKR7,800.00",
+        "description": "The 1000W Iron is a lightweight, efficient, and reliable appliance designed to deliver crisp and wrinkle-free results effortlessly. Ideal for all types of fabrics, its advanced temperature control and ergonomic design ensure safe and convenient usage. The powerful 1000W heating system provides fast heat-up, while the non-stick soleplate glides smoothly over garments, making ironing faster and easier.",
+        "image": "image\/household appliance\/iron.webp",
+        "category": "household",
+        "features": [
+            "1000W Power: Provides quick heat-up and consistent performance.",
+            "Non-Stick Soleplate: Ensures smooth gliding and prevents fabric damage.",
+            "Adjustable Temperature Control: Suitable for a variety of fabrics with precise settings.",
+            "Overheat Protection: Safety feature prevents overheating and ensures long-lasting use.",
+            "Lightweight and Ergonomic Design: Comfortable to hold and easy to maneuver.",
+            "Indicator Light: Lets you know when the iron is ready to use.",
+            "Compact Design: Easy to store and perfect for travel.",
+            "Durable Build: Designed for long-term, dependable performance."
+        ],
+        "reviews": [
+            {
+                "name": "Alex T.",
+                "comment": "\"Great for everyday use. The temperature control works well on delicate fabrics.\""
+            },
+            {
+                "name": "Linda R.",
+                "comment": "\"I love how lightweight and easy to handle this iron is. Perfect for travel too!\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "joystick": {
+        "id": "joystick",
+        "filename": "joystick.html",
+        "name": "Gaming Joystik",
+        "price": "LKR96,990.00",
+        "description": "Elevate your entertainment experience with the Sony 5.1 Home Theater System, delivering immersive surround sound for movies, music, and gaming. Designed to fill your room with rich, dynamic audio, this system combines power and elegance. With crystal-clear sound clarity, deep bass, and seamless connectivity options, this home theater system is perfect for audiophiles and movie enthusiasts alike.",
+        "image": "image\/consumer electronic\/logik stik.jpg",
+        "category": "consumer",
+        "features": [
+            "Ergonomic Design: Comfortable grip for extended gaming sessions.",
+            "Precision Control: High-sensitivity joystick for accurate movements.",
+            "Customizable Buttons: Program up to 12 buttons to suit your gaming style.",
+            "Throttle Control: Adjust speed seamlessly for realistic gameplay.",
+            "Rugged Build: Durable construction for long-lasting performance.",
+            "Plug-and-Play: Easy setup with USB compatibility for PC and consoles."
+        ],
+        "reviews": [
+            {
+                "name": "John D.",
+                "comment": "The precision of this joystick is amazing! It has completely transformed my gaming experience. Highly recommend it!"
+            },
+            {
+                "name": "Sarah K.",
+                "comment": "Great joystick with excellent build quality. I wish it had Bluetooth connectivity, though."
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "laptop": {
+        "id": "laptop",
+        "filename": "laptop.html",
+        "name": "HP15-EF2126WM RYZEN 5 5500U",
+        "price": "LKR220,000.00",
+        "description": "The HP 15-EF2126WM is a powerful and reliable laptop designed for multitasking, productivity, and entertainment. Equipped with the AMD Ryzen 5 5500U processor, this laptop offers exceptional performance and energy efficiency. Its sleek design, 15.6-inch FHD display, and ergonomic keyboard make it a perfect choice for students, professionals, and home users alike.Whether you're working on spreadsheets, streaming your favorite shows, or light gaming, the HP 15 delivers the speed and performance you need.",
+        "image": "image\/consumer electronic\/laptop.webp",
+        "category": "consumer",
+        "features": [
+            "AMD Ryzen 5 5500U Processor: Powerful 6-core processor for smooth multitasking and fast performance.",
+            "15.6-inch Full HD Display: Enjoy clear and vibrant visuals with an anti-glare screen for comfortable viewing.",
+            "8GB DDR4 RAM: Seamless multitasking and quick access to your favorite programs.",
+            "256GB SSD: Fast and reliable storage for quicker boot times and faster file access.",
+            "Integrated AMD Radeon Graphics: Smooth visuals for casual gaming and multimedia use.",
+            "Windows 11 Home: Enhanced interface and performance for modern productivity and entertainment.",
+            "Long Battery Life: Up to 9 hours of use on a single charge for all-day productivity.",
+            "Lightweight Design: Weighing only 3.75 lbs, it's easy to carry wherever you go.",
+            "Comprehensive Connectivity: Features USB Type-C, HDMI, Wi-Fi 5, and Bluetooth 5."
+        ],
+        "reviews": [
+            {
+                "name": "Jane D.",
+                "comment": "\"This laptop is fantastic! It\u2019s lightweight, fast, and perfect for both work and casual use. The Ryzen processor delivers excellent performance.\""
+            },
+            {
+                "name": "Mike R.",
+                "comment": "\"A great value for the price. The display is sharp, and the SSD makes boot-up incredibly fast. My only gripe is the limited storage, but it\u2019s easy to upgrade.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "playstation": {
+        "id": "playstation",
+        "filename": "playstation.html",
+        "name": "Play Station 5\u2013Slim Edition",
+        "price": "LKR184,990.00",
+        "description": "The PlayStation 5 \u2013 Slim Edition brings all the power and innovation of the original PS5 in a smaller, sleeker design. Featuring cutting-edge hardware, lightning-fast load times, and immersive gameplay experiences, the Slim Edition is perfect for gamers who want top-tier performance in a compact package. With 4K gaming, advanced ray tracing, and a host of exclusive titles, this console is designed to elevate your gaming experience to the next level.",
+        "image": "image\/consumer electronic\/playstation 5.jpg",
+        "category": "consumer",
+        "features": [
+            "Compact Design: 30% smaller and lighter, perfect for minimalist setups.",
+            "4K Gaming: Enjoy ultra-high-definition gaming with stunning visuals and fluid frame rates.",
+            "Ray Tracing: Advanced lighting and reflection technologies for a truly immersive experience.",
+            "Ultra-Fast SSD: Load games in seconds with the 1TB ultra-fast solid-state drive.",
+            "Tempest 3D Audio: Experience immersive soundscapes with 3D audio support.",
+            "DualSense Controller: Feel haptic feedback and adaptive triggers for next-level gameplay interaction.",
+            "Exclusive Games: Access to top-tier PlayStation exclusives like Spider-Man, Horizon, and God of War.",
+            "Backward Compatibility: Play most of your PS4 library with improved performance and graphics."
+        ],
+        "reviews": [
+            {
+                "name": "Emily R.",
+                "comment": "\"The PS5 Slim is everything I wanted! The compact design fits perfectly in my small entertainment space, and the gaming performance is flawless.\""
+            },
+            {
+                "name": "Laura M.",
+                "comment": "\"Great TV, but I wish the sound quality was a little better. Overall, excellent performance and easy setup.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "ricecooker": {
+        "id": "ricecooker",
+        "filename": "rice cooker.html",
+        "name": "RICE COOKER(2.8L)",
+        "price": "LKR17,950.00",
+        "description": "The 2.8L Rice Cooker is a versatile and efficient kitchen appliance designed to prepare fluffy and perfectly cooked rice with minimal effort. With a large 2.8-liter capacity, it\u2019s perfect for families, parties, or meal prepping. Its multi-functionality allows you to prepare a variety of dishes, including steamed vegetables and soups. The durable build, non-stick inner pot, and user-friendly controls make this rice cooker a must-have for modern kitchens.",
+        "image": "image\/household appliance\/rice cooker.jpg",
+        "category": "household",
+        "features": [
+            "Large Capacity: 2.8-liter size perfect for large families or gatherings.",
+            "One-Touch Operation: Simplifies cooking with a single-button operation.",
+            "Non-Stick Inner Pot: Prevents rice from sticking and makes cleanup effortless.",
+            "Keep-Warm Function: Keeps rice warm and ready to serve for hours.",
+            "Multi-Purpose Use: Ideal for cooking rice, steaming vegetables, and preparing soups or porridge.",
+            "Durable Build: Made from high-quality materials for long-lasting use.",
+            "Easy to Clean: Removable inner pot and lid are easy to wash and maintain.",
+            "Accessories Included: Comes with a measuring cup and rice spatula for convenience."
+        ],
+        "reviews": [
+            {
+                "name": "Michael G.",
+                "comment": "\"This rice cooker is a game-changer for my family. It\u2019s large enough for our gatherings, and the rice turns out perfect every time.\""
+            },
+            {
+                "name": "Linda K.",
+                "comment": "\"The keep-warm function is a lifesaver! We can have warm rice ready anytime.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "smartwatch": {
+        "id": "smartwatch",
+        "filename": "smartwatch.html",
+        "name": "Mibro GS SmartWatch",
+        "price": "LKR17,490.00",
+        "description": "The Mibro GS SmartWatch is an affordable, stylish, and feature-packed smartwatch designed for both fitness enthusiasts and those seeking a convenient wearable. With its sleek design, large 1.78-inch AMOLED touch display, and 2.5D curved glass, the Mibro GS offers vibrant colors and easy navigation. It comes equipped with a heart rate monitor, SpO2 sensor, sleep tracking, and over 70 sports modes, making it the perfect companion for your active lifestyle. Stay connected with smart notifications, weather updates, and fitness tracking right on your wrist.",
+        "image": "image\/consumer electronic\/smart watch.jpg",
+        "category": "consumer",
+        "features": [
+            "1.78-inch AMOLED Display: High-resolution, vibrant screen for clear visibility in all lighting conditions.",
+            "Heart Rate Monitor: Continuously monitor your heart rate during workouts and throughout the day for better health insights.",
+            "SpO2 Sensor: Track your blood oxygen levels to monitor your overall health and wellness.",
+            "70+ Sports Modes: Offers a wide variety of sports modes including running, cycling, yoga, and more for detailed activity tracking.",
+            "Sleep Tracking: Analyze your sleep quality to ensure you are getting enough rest each night.",
+            "IP68 Water Resistance: Swim, shower, and exercise in the rain without worry, as the watch is fully water-resistant.",
+            "Smart Notifications: Receive alerts for calls, messages, and app notifications directly on your wrist.",
+            "Long Battery Life: Enjoy up to 14 days of battery life on a single charge, depending on usage.",
+            "Customizable Watch Faces: Choose from various watch faces to match your personal style."
+        ],
+        "reviews": [
+            {
+                "name": "Sarah G.",
+                "comment": "\"I love this smartwatch! The AMOLED display is gorgeous, and the health tracking features are so useful. It helps me stay on top of my fitness goals.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 1
+    },
+    "standmixer": {
+        "id": "standmixer",
+        "filename": "standmixer.html",
+        "name": "STAND MIXER",
+        "price": "LKR37,499.00",
+        "description": "The Stand Mixer is the ultimate kitchen companion, designed to simplify and enhance your baking and cooking experience. With its powerful motor, versatile attachments, and robust build, this mixer tackles everything from whipping cream to kneading dough effortlessly. Its modern design complements any kitchen decor, making it both functional and stylish.",
+        "image": "image\/household appliance\/mixer.jpg",
+        "category": "household",
+        "features": [
+            "Powerful Motor: 1000W motor for efficient and consistent mixing.",
+            "Multiple Speed Settings: Adjustable speeds to suit various recipes.",
+            "Versatile Attachments: Includes whisk, dough hook, and beater for multiple tasks.",
+            "Large Mixing Bowl: 5-liter capacity stainless steel bowl, ideal for large batches.",
+            "Planetary Mixing Action: Ensures thorough and even mixing.",
+            "Durable Build: Sturdy construction for long-term performance.",
+            "Easy to Clean: Removable parts are dishwasher safe for effortless cleaning.",
+            "Safety Features: Non-slip base and overheat protection for secure operation."
+        ],
+        "reviews": [
+            {
+                "name": "Emma B.",
+                "comment": "\"This stand mixer is a game-changer! I can easily make bread dough and cake batter without any hassle.\""
+            },
+            {
+                "name": "Sarah K.",
+                "comment": "\"Love the design and functionality. It's sturdy, reliable, and easy to clean!\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "subwoofer": {
+        "id": "subwoofer",
+        "filename": "subwoofer.html",
+        "name": "Multimedia Gaming Speaker",
+        "price": "LKR7,500.00",
+        "description": "Elevate your gaming experience with the Multimedia Gaming Speaker, designed to deliver powerful sound and vibrant lighting effects. Whether you're playing your favorite games, watching movies, or listening to music, this speaker system provides deep bass, crisp audio, and immersive surround sound. Equipped with customizable RGB lighting and multiple connectivity options, it is a must-have for gamers and audiophiles a like.",
+        "image": "image\/consumer electronic\/mini subwoofer.jpg",
+        "category": "consumer",
+        "features": [
+            "Powerful Audio Performance: Produces clear, high-quality sound with deep bass and immersive surround sound effects.",
+            "Dynamic RGB Lighting: Customizable lighting effects that enhance your gaming or listening experience.",
+            "Versatile Connectivity: Compatible with Bluetooth, AUX, USB, and SD card for multiple playback options.",
+            "Built-in Equalizer: Offers tailored sound modes for gaming, music, or movies.",
+            "Compact Design: Stylish, space-saving design that complements your gaming setup.",
+            "Plug-and-Play: Easy setup with no complicated configurations required.",
+            "Wide Compatibility: Works seamlessly with PCs, laptops, gaming consoles, and mobile devices.",
+            "Durable Build: High-quality materials ensure long-lasting performance."
+        ],
+        "reviews": [
+            {
+                "name": "Sara T.",
+                "comment": "\"Great value for the price. The bass is deep, and the lights are cool. Setup was super easy too!\""
+            },
+            {
+                "name": "Mark D.",
+                "comment": "\"The sound quality is amazing, and the RGB lights add a great vibe to my gaming room. Highly recommend it!\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "tv": {
+        "id": "tv",
+        "filename": "tv.html",
+        "name": "40\u2033 Full HD Ultra Slim LED TV",
+        "price": "LKR71,950.00",
+        "description": "Experience crystal-clear visuals and vibrant colors with the 40\u2033 Full HD Ultra Slim LED TV. This television combines a sleek, ultra-thin design with stunning 1080p resolution to enhance your viewing experience. Whether you're watching your favorite shows, movies, or playing games, this TV delivers exceptional quality. Its energy-efficient design and multiple connectivity options make it a perfect addition to any home.",
+        "image": "image\/consumer electronic\/tv.webp",
+        "category": "consumer",
+        "features": [
+            "Full HD 1080p: Enjoy sharp and vivid visuals with a resolution of 1920x1080 pixels.",
+            "Ultra Slim Design: A sleek, modern look that fits any space.",
+            "Dynamic Color Enhancement: Brings life-like colors to your screen.",
+            "Energy Efficient: Designed to reduce power consumption without compromising performance.",
+            "Multiple Connectivity Options: HDMI, USB, and AV ports for versatile usage."
+        ],
+        "reviews": [
+            {
+                "name": "David S.",
+                "comment": "\"Absolutely love this TV! The picture quality is stunning, and the slim design looks amazing in my living room. Great value for the price!\""
+            },
+            {
+                "name": "Laura M.",
+                "comment": "\"Great TV, but I wish the sound quality was a little better. Overall, excellent performance and easy setup.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "usbmicrophone": {
+        "id": "usbmicrophone",
+        "filename": "usbmicrophone.html",
+        "name": "USB Microphone",
+        "price": "LKR40,000.00",
+        "description": "Capture crystal-clear audio for streaming, podcasting, gaming, or professional recording with the USB Microphone. Engineered for plug-and-play simplicity, it connects seamlessly to your computer or laptop without the need for additional software. Its premium condenser capsule ensures accurate sound reproduction, while adjustable settings and noise-cancellation features provide optimal recording quality in any environment.",
+        "image": "image\/consumer electronic\/microphone.jpg",
+        "category": "consumer",
+        "features": [
+            "Studio-Grade Sound Quality: Ensures crystal-clear audio for professional recordings.",
+            "Plug-and-Play USB Connectivity: No drivers needed; compatible with major operating systems.",
+            "Noise Cancellation: Filters out background noise for pristine sound capture.",
+            "Cardioid Polar Pattern: Captures sound from the front while minimizing unwanted ambient noise.",
+            "Adjustable Gain Control: Fine-tune sensitivity to adapt to various environments.",
+            "Durable and Portable Design: Robust metal body with a lightweight build for easy portability.",
+            "Wide Compatibility: Works with popular recording, streaming, and conferencing software.",
+            "Included Accessories: Comes with a tripod stand, shock mount, and USB cable for added convenience."
+        ],
+        "reviews": [
+            {
+                "name": "Alice K.",
+                "comment": "\"This microphone is fantastic for podcasts. The sound quality is clear, and it's super easy to set up.\""
+            },
+            {
+                "name": "David P.",
+                "comment": "\"Great mic for the price! Perfect for Zoom meetings and gaming. Noise cancellation works really well.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "washinmachine": {
+        "id": "washinmachine",
+        "filename": "washinmachine.html",
+        "name": "WASHING MACHINE(8KG)",
+        "price": "LKR37,499.00",
+        "description": "The 8KG Washing Machine is a high-capacity, energy-efficient appliance designed to handle the laundry needs of medium to large households. Featuring advanced washing programs, smart water usage, and durable construction, this washing machine ensures thorough cleaning while being gentle on fabrics. Its sleek design and intuitive controls make it a stylish and practical addition to any home.",
+        "image": "image\/household appliance\/wachine machine.webp",
+        "category": "household",
+        "features": [
+            "Large Capacity: 8KG drum size suitable for medium to large families.",
+            "Multiple Washing Programs: Tailored settings for cotton, synthetic, wool, and delicate fabrics.",
+            "Energy-Efficient: Saves electricity and water with advanced technology.",
+            "Quick Wash Option: Get clothes clean in less time for those on-the-go moments.",
+            "Child Lock: Keeps settings secure from accidental changes during operation.",
+            "Durable Build: High-quality materials for long-lasting use.",
+            "Easy to Operate: Digital display and intuitive controls for hassle-free use.",
+            "Quiet Operation: Low noise levels even during spin cycles."
+        ],
+        "reviews": [
+            {
+                "name": "John D.",
+                "comment": "\"This washing machine has made laundry day so much easier! The capacity is perfect for our family.\""
+            },
+            {
+                "name": "Mike H.",
+                "comment": "\"The quick wash option is a lifesaver when I\u2019m in a hurry. Highly recommend this machine!\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    },
+    "wifi": {
+        "id": "wifi",
+        "filename": "wifi.html",
+        "name": "Wifi Repeater",
+        "price": "LKR3,000.00",
+        "description": "The WiFi Repeater is the ultimate solution for eliminating dead zones and extending the range of your wireless network. Designed for both home and office use, it amplifies your existing WiFi signal, ensuring seamless connectivity across larger areas. With support for dual-band frequencies, compact design, and easy setup, this repeater enhances internet coverage for multiple devices without compromising speed or security.",
+        "image": "image\/consumer electronic\/wifi.jpg",
+        "category": "consumer",
+        "features": [
+            "Dual-Band Connectivity: Supports both 2.4GHz and 5GHz frequencies for faster and more stable internet connections.",
+            "Wide Coverage Area: Extends WiFi signal coverage up to 2,000 square feet, eliminating dead zones in large spaces.",
+            "High-Speed Data Transfer: Offers speeds of up to 1200Mbps, ensuring seamless streaming, gaming, and browsing.",
+            "Plug-and-Play Design: Easy setup with the WPS button or through a web interface.",
+            "Universal Compatibility: Works with all standard routers, gateways, and access points.",
+            "Ethernet Port: Includes an Ethernet port for connecting wired devices such as smart TVs, gaming consoles, and desktop computers.",
+            "Compact and Portable: Sleek design that fits into any power outlet discreetly.",
+            "Advanced Security: Supports WPA\/WPA2 encryption for secure connections and protection against unauthorized access.",
+            "LED Signal Indicator: Helps you find the optimal location for the repeater for maximum coverage and performance.",
+            "Energy-Efficient Design: Consumes minimal power, making it environmentally friendly and cost-effective."
+        ],
+        "reviews": [
+            {
+                "name": "Jason L.",
+                "comment": "\"Good device for the price. The speed is consistent, but it took a few tries to set up with my older router.\""
+            },
+            {
+                "name": "Emily R.",
+                "comment": "\"This WiFi repeater is a game changer! It extended my signal to the backyard where I couldn\u2019t get WiFi before. Setup was quick and easy.\""
+            }
+        ],
+        "rating": 4.5,
+        "reviews_count": 2
+    }
+}
